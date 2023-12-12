@@ -31,5 +31,6 @@ for(i=num;i>0;--i)
 	}
 print(\n,0);
 }
+	
 return 0;
 }
